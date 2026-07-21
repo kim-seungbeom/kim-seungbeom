@@ -4,7 +4,7 @@
 
 ## 👩‍💻 Experiences
 
-- **2026.08 – Present** | **President, CAU UMC Development Club
+- **2026.08 – Present** | **President**, CAU UMC Development Club
 - **2026.06 – 2026.08** | Summer intern, CAU HCI Labaratory IXLAB
 - **2026.03 – Present** | Member, CAU AI Academic Community CUAI
 - **2026.03 – 2026.08** | Member, CAU UMC Development Club (11th, Node.js)
