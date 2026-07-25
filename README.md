@@ -16,10 +16,9 @@
 
 <br />
 
-## 🏆 Awards 
 
-- **2026** | 최우수상 — CUAI Datathon
-- **2026** | 최우수상 — UMC MESH Hackathon with AWS
-- **2023** | 인기상 & 장려상 — SWgnature Competition, hosted by the College of Software Alumni Association
+## 🏆 Awards
 
-
+- **2026** | Excellence Award (2nd Place) — CUAI Datathon
+- **2026** | Excellence Award (2nd Place) — UMC MESH Hackathon with AWS
+- **2023** | People’s Choice Award & Honorable Mention — SWgnature Competition, hosted by the College of Software Alumni Association
