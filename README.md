@@ -6,9 +6,8 @@
 
 - **2026.08 – Present** | **President**, CAU UMC Development Club
 - **2026.06 – 2026.08** | Summer intern, CAU HCI Labaratory IXLAB
-- **2026.03 – Present** | Member, CAU Artificial Intelligence Academic Community CUAI
-- **2026.03 – Present** | Study Leader, CAU COMP Web Development Club
-- **2026.03 – 2026.08** | Member, CAU UMC Development Club (11th, Node.js)
+- **2026.03 – Present** | Member, CAU AI Academic Community CUAI
+- **2026.03 – 2026.08** | Member, CAU UMC Development Club
 - **2022.11 – 2023.11** | Head of Media Department, 51st Student Council, CAU CSE
 - **2023.03 – 2023.11** | Organizing Committee Member, Uni-D 3rd Inter-University Hackathon
 - **2022.03 – 2023.01** | Member, CAU COMP Web Development Club
