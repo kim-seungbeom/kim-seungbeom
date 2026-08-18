@@ -20,4 +20,3 @@
 
 - **2026** | Excellence Award (2nd Place) — CUAI Datathon
 - **2026** | Excellence Award (2nd Place) — UMC MESH Hackathon with AWS
-- **2023** | People’s Choice Award & Honorable Mention — SWgnature Competition, hosted by the College of Software Alumni Association
