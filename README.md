@@ -24,16 +24,16 @@ I aspire to grow into a **T-shaped developer**, combining deep expertise with br
 | **[PicTree](https://github.com/PicTree-UMC/PicTree-Backend)** | A travel journaling and AI blog draft generation service. |
 | **[AI Doc Agent](https://github.com/SangSangGround/doc-agent)** | A voice and tactile document assistant for people with visual impairments. |
 | **[Carnation · Wi-Fi CSI](https://github.com/Carnation-CAU/csi-monitor)** | Wi-Fi CSI-based indoor safety monitoring for older adults. |
-| **Drimsis Workflow** | A general-purpose workflow management platform developed through an industry–university collaboration. |
+| **Drimsis Workflow** | A workflow platform for designing business processes and executing them within Java applications (developed through an industry–university collaboration.) |
+| **Emotion Modeling Project** | Exploratory research on computational models of human emotion at CAU IXLAB. |
 | **[COMP Website](https://github.com/CAUCOMP/comp-static)** | The website of CAU's COMP web development club. |
-
 <br />
 
 ## 🏆 Awards
 
 - **2026** | **Top Excellence Award (2nd Place)** — CUAI Datathon
 - **2026** | **Top Excellence Award (2nd Place)** — UMC MESH Hackathon with AWS
-- **2026** | **Excellence Award(3rd Place)**, Startup Idea Competition
+- **2026** | **Excellence Award(3rd Place)**- Startup Idea Competition
 
 <br />
 
