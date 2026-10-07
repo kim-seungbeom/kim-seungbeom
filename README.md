@@ -24,9 +24,9 @@ I aspire to grow into a **T-shaped developer**, combining deep expertise with br
 | **[PicTree](https://github.com/PicTree-UMC/PicTree-Backend)** | A travel journaling and AI blog draft generation service. |
 | **[AI Doc Agent](https://github.com/SangSangGround/doc-agent)** | A voice and tactile document assistant for people with visual impairments. |
 | **[Carnation · Wi-Fi CSI](https://github.com/Carnation-CAU/csi-monitor)** | Wi-Fi CSI-based indoor safety monitoring for older adults. |
-| **Drimsis Workflow** | A workflow platform for designing business processes and executing them within Java applications (developed through an industry–university collaboration.) |
 | **Emotion Modeling Project** | Exploratory research on computational models of human emotion at CAU IXLAB. |
 | **[COMP Website](https://github.com/CAUCOMP/comp-static)** | The website of CAU's COMP web development club. |
+| **Workflo Platform(Capstone Design)** | (In progress)A workflow platform for designing business processes and executing them within Java applications (developed through an industry–university collaboration - DrimSys, Inc.) |
 <br />
 
 ## 🏆 Awards
@@ -82,7 +82,6 @@ I aspire to grow into a **T-shaped developer**, combining deep expertise with br
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
 <h3>🛠️ Tools</h3>
