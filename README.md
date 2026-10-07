@@ -31,9 +31,9 @@ I aspire to grow into a **T-shaped developer**, combining deep expertise with br
 
 ## 🏆 Awards
 
-- **2026** | **Excellence Award (2nd Place)** — CUAI Datathon
-- **2026** | **Excellence Award (2nd Place)** — UMC MESH Hackathon with AWS
-- **2026** | **Excellence Award**, Startup Idea Competition
+- **2026** | **Top Excellence Award (2nd Place)** — CUAI Datathon
+- **2026** | **Top Excellence Award (2nd Place)** — UMC MESH Hackathon with AWS
+- **2026** | **Excellence Award(3rd Place)**, Startup Idea Competition
 
 <br />
 
