@@ -26,7 +26,7 @@ I aspire to grow into a **T-shaped developer**, combining deep expertise with br
 | **[Carnation · Wi-Fi CSI](https://github.com/Carnation-CAU/csi-monitor)** | Wi-Fi CSI-based indoor safety monitoring for older adults. |
 | **Emotion Modeling Project** | Exploratory research on computational models of human emotion at CAU IXLAB. |
 | **[COMP Website](https://github.com/CAUCOMP/comp-static)** | The website of CAU's COMP web development club. |
-| **Workflo Platform(Capstone Design)** | (In progress)A workflow platform for designing business processes and executing them within Java applications (developed through an industry–university collaboration - DrimSys, Inc.) |
+| **Workflow Platform<br/>(Capstone Design)** | (In progress)A workflow platform for designing business processes and executing them within Java applications (developed through an industry–university collaboration - DrimSys, Inc.) |
 <br />
 
 ## 🏆 Awards
