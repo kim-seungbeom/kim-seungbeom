@@ -6,7 +6,7 @@ I aspire to grow into a **T-shaped developer**, combining deep expertise with br
 
 ## 🧑‍💻 Experiences
 
-- **2026.08 – Present** | **LEAD**, CAU UMC Development Club
+- **2026.08 – Present** | **PRESIDENT**, CAU UMC Development Club
 - **2026.06 – 2026.08** | Summer intern, CAU HCI Labaratory **IXLAB**
 - **2026.03 – 2026.08** | Member, CAU AI Academic Community **CUAI**
 - **2026.03 – 2026.08** | Member, CAU **UMC** Development Club
